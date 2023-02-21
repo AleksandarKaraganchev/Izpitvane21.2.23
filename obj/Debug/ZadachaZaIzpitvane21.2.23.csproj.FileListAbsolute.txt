@@ -1,0 +1,16 @@
+C:\Users\STUDENTS-1212-12\Desktop\11Д   Стойчо & Диан\ZadachaZaIzpitvane21.2.23\bin\Debug\ZadachaZaIzpitvane21.2.23.exe.config
+C:\Users\STUDENTS-1212-12\Desktop\11Д   Стойчо & Диан\ZadachaZaIzpitvane21.2.23\bin\Debug\ZadachaZaIzpitvane21.2.23.exe
+C:\Users\STUDENTS-1212-12\Desktop\11Д   Стойчо & Диан\ZadachaZaIzpitvane21.2.23\bin\Debug\ZadachaZaIzpitvane21.2.23.pdb
+C:\Users\STUDENTS-1212-12\Desktop\11Д   Стойчо & Диан\ZadachaZaIzpitvane21.2.23\obj\Debug\ZadachaZaIzpitvane21.2.23.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-12\Desktop\11Д   Стойчо & Диан\ZadachaZaIzpitvane21.2.23\obj\Debug\ZadachaZaIzpitvane21.2.23.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1212-12\Desktop\11Д   Стойчо & Диан\ZadachaZaIzpitvane21.2.23\obj\Debug\ZadachaZaIzpitvane21.2.23.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-12\Desktop\11Д   Стойчо & Диан\ZadachaZaIzpitvane21.2.23\obj\Debug\ZadachaZaIzpitvane21.2.23.exe
+C:\Users\STUDENTS-1212-12\Desktop\11Д   Стойчо & Диан\ZadachaZaIzpitvane21.2.23\obj\Debug\ZadachaZaIzpitvane21.2.23.pdb
+C:\9д-Александър\ZadachaZaIzpitvane21.2.23\bin\Debug\ZadachaZaIzpitvane21.2.23.exe.config
+C:\9д-Александър\ZadachaZaIzpitvane21.2.23\bin\Debug\ZadachaZaIzpitvane21.2.23.exe
+C:\9д-Александър\ZadachaZaIzpitvane21.2.23\bin\Debug\ZadachaZaIzpitvane21.2.23.pdb
+C:\9д-Александър\ZadachaZaIzpitvane21.2.23\obj\Debug\ZadachaZaIzpitvane21.2.23.csproj.AssemblyReference.cache
+C:\9д-Александър\ZadachaZaIzpitvane21.2.23\obj\Debug\ZadachaZaIzpitvane21.2.23.csproj.SuggestedBindingRedirects.cache
+C:\9д-Александър\ZadachaZaIzpitvane21.2.23\obj\Debug\ZadachaZaIzpitvane21.2.23.csproj.CoreCompileInputs.cache
+C:\9д-Александър\ZadachaZaIzpitvane21.2.23\obj\Debug\ZadachaZaIzpitvane21.2.23.exe
+C:\9д-Александър\ZadachaZaIzpitvane21.2.23\obj\Debug\ZadachaZaIzpitvane21.2.23.pdb
